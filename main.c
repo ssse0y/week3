@@ -3,8 +3,8 @@
 
 int main(void) {
 
-    int b=0;
-	float a=0,fin=0;
+    int a=0,b=0;
+	float fin=0;
 	
 	printf("분자를 입력하세요:\n");
 	scanf("%i", &a);
