@@ -4,8 +4,8 @@
 CPP      = g++.exe
 CC       = gcc.exe
 WINDRES  = windres.exe
-OBJ      = main.o
-LINKOBJ  = main.o
+OBJ      = main.o Untitled1.o
+LINKOBJ  = main.o Untitled1.o
 LIBS     = -L"D:/dev_cpp/Dev-Cpp/MinGW64/lib" -L"D:/dev_cpp/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
 INCS     = -I"D:/dev_cpp/Dev-Cpp/MinGW64/include" -I"D:/dev_cpp/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/dev_cpp/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
 CXXINCS  = -I"D:/dev_cpp/Dev-Cpp/MinGW64/include" -I"D:/dev_cpp/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/dev_cpp/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/dev_cpp/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
